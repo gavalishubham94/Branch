@@ -20,7 +20,7 @@ public class DaoImpl implements DaoI{
 
 	@Override
 	public List<Employee> getAllEmployee() {
-		// TODO Auto-generated method stub
+		System.out.println("Team member 1 has completed his works");
 		return null;
 	}
 

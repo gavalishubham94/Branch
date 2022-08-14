@@ -14,7 +14,7 @@ public class ServiceImpl implements ServiceI {
 
 	@Override
 	public List<Employee> getAllEmployee() {
-		// TODO Auto-generated method stub
+	
 		return null;
 	}
 
